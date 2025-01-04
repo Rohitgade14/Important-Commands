@@ -12,3 +12,5 @@ npm install webpack-dev-server@3.11.2 --save-dev
 ng --version // for cli and node version
 node -v // for node version
 npm install --save-dev @angular-devkit/build-angular
+
+
