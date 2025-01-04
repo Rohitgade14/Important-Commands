@@ -1,0 +1,10 @@
+Implemented CRUD Operations: Developed robust APIs for seamlessly handling Create, Read, Update, and Delete operations for book data.
+Additional Features:
+Export to PDF: Enabled users to download book details as a PDF.
+Excel Integration: Implemented functionality to upload Excel files for bulk data insertion and download Excel files for data export.
+Pagination: Added paginated responses to enhance usability and manage large datasets efficiently.
+Cross-Origin Resource Sharing (CORS): Configured CORS in the backend to allow secure communication between the Angular frontend and the Spring Boot backend.
+Frontend Integration:
+Integrated the backend with an Angular 18 UI featuring routing and Auth Guard for secure navigation.
+Implemented form validation in the UI to ensure data accuracy and enhance user experience during input submission.
+API Testing: Conducted comprehensive testing using Postman to validate functionality, reliability, and performance.

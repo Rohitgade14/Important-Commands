@@ -1,0 +1,4 @@
+Proficient in backend development using Java, J2EE, Spring MVC, Spring Boot, and Spring Data JPA.
+Experienced in frontend development with HTML, CSS, JavaScript, TypeScript, Bootstrap, and Angular.
+In-depth knowledge of Java 8 features and enhancements.
+Skilled in writing SQL queries (DDL, DML, DQL) with a solid grasp of relational database concepts (RDBMS).
