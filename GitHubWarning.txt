@@ -8,3 +8,6 @@ git config --global core.autocrlf false
 git config --global core.autocrlf input
 git add --renormalize .
 git commit -m "Normalize line endings"
+Get-ExecutionPolicy
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+ng g c sales-scheme error facing issue with creating command
